@@ -4,8 +4,8 @@
 > [\(914\) 338-3187](1-914-338-3187)
 
 > [GitHub @hugopretorius914 :octocat:](https://github.com/hugopretorius914)  
-> [LinkedIn @hugopretorius](https://linkedin.com/in/hugopretorius)
-> [Skype live:.cid.5d6a0b34573d1cd6](live:.cid.5d6a0b34573d1cd6)
+> [LinkedIn @hugopretorius](https://linkedin.com/in/hugopretorius)  
+> Skype live:.cid.5d6a0b34573d1cd6
 
 > Currently: Los Angeles 🇺🇸
 > From: Cape Town 🇿🇦
