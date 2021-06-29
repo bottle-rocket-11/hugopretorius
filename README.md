@@ -7,7 +7,7 @@
 > [LinkedIn @hugopretorius](https://linkedin.com/in/hugopretorius)  
 > Skype live:.cid.5d6a0b34573d1cd6
 
-> Currently: Los Angeles 🇺🇸
+> Currently: Los Angeles 🇺🇸 
 > From: Cape Town 🇿🇦
 
 ---
