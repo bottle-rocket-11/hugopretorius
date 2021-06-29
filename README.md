@@ -14,11 +14,11 @@
 
 ## Work Experience
 
-**Title**
+**Senior Mobile Engineer**
 
-Company
+Microforest Ltd
 
-_October 2019 - Present_
+_October 2017 - December 2020_
 
 - Performed...
 - Created...
@@ -30,11 +30,11 @@ _October 2019 - Present_
 - Grew
 - Inspired
 
-**Title**
+**Senior Mobile UX Designer (first half) => Mobile Engineer (second half)**
 
-Company
+Media 24, 24.com
 
-_July 2018 - October 2019_
+_July 2014 - October 2017_
 
 - Participated
 - Influenced
