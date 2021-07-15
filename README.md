@@ -30,7 +30,7 @@ _October 2017 - December 2020_
 - Grew
 - Inspired
 
-**Senior Mobile UX Designer (first half) => Mobile Engineer (second half)**
+**Senior Mobile UX Designer (started) => Mobile Engineer (ended)**
 
 Media 24, 24.com
 
