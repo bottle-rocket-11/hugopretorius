@@ -14,6 +14,25 @@
 
 ## Work Experience
 
+**Technical Founder**
+
+The Scatterbrain App Ltd
+https://thescatterbrain.app
+
+Jan 2021 - Present 2020_
+
+- Architected Flutter application
+- Performed code reviews
+- Wrote up technical documentation
+- Wrote business plan
+- Designed and managed brand
+- Designed and animated the squirrel logo
+- Implemented CD/CI on Bitrise
+- Implemented all technical integrations
+- Deployed to App and Play Stores
+- Deployed to Firebase Hosting
+- Grew the company 1 Business Director + 1 Additional Engineer
+
 **Senior Mobile Engineer**
 
 Microforest Ltd
