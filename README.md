@@ -1,7 +1,7 @@
 # Hugo Pretorius
 
-> [hugopretorius914@gmail.com](mailto:hugopretorius914@gmail.com)  
-> [\(914\) 338-3187](1-914-338-3187)
+[hugopretorius914@gmail.com](mailto:hugopretorius914@gmail.com)  
+[\(914\) 338-3187](1-914-338-3187)
 
 > [GitHub @hugopretorius914 :octocat:](https://github.com/hugopretorius914)  
 > [LinkedIn @hugopretorius](https://linkedin.com/in/hugopretorius)  
@@ -14,23 +14,24 @@
 
 ## Work Experience
 
-**Technical Founder**
+**Founder + Creator**
 
 The Scatterbrain App Ltd
 https://thescatterbrain.app
 
-Jan 2021 - Present 2020_
+_Jan 2021 - Present_
 
-- Architected Flutter application
+- Architected (frontend to backend)
+- Integrated to third party APIs
 - Performed code reviews
-- Wrote up technical documentation
-- Wrote business plan
-- Designed and managed brand
-- Designed and animated the squirrel logo
-- Implemented CD/CI on Bitrise
-- Implemented all technical integrations
 - Deployed to App and Play Stores
-- Deployed to Firebase Hosting
+- Deployed web app
+- Implemented CD/CI
+- Wrote all technical documentation
+- Created the brand
+- Designed and animated the squirrel
+- Wrote business plan
+- Influenced other stakeholders with solid engineering processes
 - Grew the company 1 Business Director + 1 Additional Engineer
 
 **Senior Mobile Engineer**
@@ -39,15 +40,21 @@ Microforest Ltd
 
 _October 2017 - December 2020_
 
-- Performed...
-- Created...
-- Influenced...
-- Wrote
-- Implemented
-- Deployed
-- Sold
-- Grew
-- Inspired
+- Architected react native application
+- Integrated native iOS + Android Mapbox SDK
+- Architected and developed offline first mapping
+- Performed code reviews
+- Deployed to App and Play Stores
+- Implemented CD/CI
+- Implemented aalytics
+- Reported on analytics weekly
+- Implemented real time crash reporting
+- Maintained large code base through phased on maturation
+- Wrote technical documentation
+- Designed launcher icon
+- Influenced CTO to improve data structures
+- Lead the development of commments (widely used feature)
+- Grew the mobile team
 
 **Senior Mobile UX Designer (started) => Mobile Engineer (ended)**
 
