@@ -36,7 +36,7 @@ _Dec 2020 - Present_
 > Created a D&I glossary to support a more inclusive environment
 > Received an offer for a full time position 
 
-- [Demo](https://drive.google.com/open?id=13ok6z4YR_F-ucnv51t4pouC0b_NG4GN5)
+- [Demo Video](https://drive.google.com/open?id=13ok6z4YR_F-ucnv51t4pouC0b_NG4GN5)
 
 **Founder**   
 The Scatterbrain App Ltd  
@@ -112,6 +112,8 @@ https://www.wyzetalk.com/product-solutions
 **Yama ("pranayama")**
 
 Yama is a breathwork app similar to that of Apple Watch's "Breathe" app and works on Android and iOS. Yama will facilitates mindfulness in a busy world and promote health through meditation and breathwork. 
+
+- [Demo Video](https://drive.google.com/file/d/1bxNzepGOFQ7HASFJplGkEIJnclvZgBvg/view?usp=sharing)  
 
 **Sponsor**  
 
