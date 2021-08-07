@@ -38,6 +38,8 @@ _Dec 2020 - Present_
 
 - [Demo Video](https://drive.google.com/open?id=13ok6z4YR_F-ucnv51t4pouC0b_NG4GN5)
 
+---
+
 **Founder**   
 The Scatterbrain App Ltd  
 _Jan 2019 - Present_   
@@ -46,6 +48,8 @@ _Jan 2019 - Present_
 > Launched on Web, iOS and Android       
 > Wrote technical documentation + wikis     
 > Bitrise (CD/CI)   
+> Animations useing Rive + Lottie
+> Authentication with Google, Apple & email
 > Sought and employed business oriented cofounders      
 > Established agile team operations     
 
@@ -183,7 +187,7 @@ _Minors: GIS, Psychology_
 
 | Mobile                                | General                                | Design                     | Other                                    |
 | :------------------------------------- | ---------------------------------------- | ----------------------------- | ---------------------------------------- |
-| Flutter, Dart, React Native, JS, iOS, Android, Xcode, Android Studio, MapBox, Restful API, GraphQL | HTML, CSS, React, Vue.js, GitLab, D3.js, Node.js, GeoJSON, GIS, Cloud Functions, Lambdas, AppSync | Sketch, Ai, Ps, Ae, Lr, Rive, Lottie | Git, Firebase, AWS Amplify, Agile, Scrum, Lean |
+| Flutter, Dart, React Native, JS, iOS, Android, Xcode, Android Studio, MapBox, rest API, GraphQL | HTML, CSS, React, Vue.js, GitLab, D3.js, Node.js, GeoJSON, GIS, Cloud Functions, Lambdas, AppSync | Sketch, Ai, Ps, Ae, Lr, Rive, Lottie | Git, Firebase, AWS Amplify, Agile, Scrum, Lean |
 
 ---
 
