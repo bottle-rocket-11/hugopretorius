@@ -24,7 +24,8 @@ dependencies:
   flutter:
     sdk: flutter
   
-  flutter_markdown: 0.6.2
+  flutter_markdown: 0.6.4
+  google_fonts: 2.1.0
   pdf: 3.4.2
   url_strategy: 0.2.0
 
@@ -48,7 +49,7 @@ flutter:
   uses-material-design: true
 
   assets:
-    - ./README.md
+    - README.md
 
   # An image asset can refer to one or more resolution-specific "variants", see
   # https://flutter.dev/assets-and-images/#resolution-aware.
