@@ -128,7 +128,7 @@ Nido - called Friend Theory at the time - is a free group communication tool des
 
 **Resume**
 
-You are here =)
+Simply hosted a Flutter web project to display this `README.md` file
 
 --- 
 
