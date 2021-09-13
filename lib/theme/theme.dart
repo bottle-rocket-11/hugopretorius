@@ -13,5 +13,6 @@ ThemeData lightTheme = ThemeData(
   accentColor: Colors.red,
   brightness: Brightness.light,
   primaryColor: Colors.blue,
-  textTheme: GoogleFonts.inconsolataTextTheme().apply(bodyColor: Colors.white),
+  textTheme: GoogleFonts.inconsolataTextTheme()
+      .apply(bodyColor: Colors.black, displayColor: Colors.black),
 );
